@@ -9,6 +9,8 @@ This program simulates a race between two turtles using the ColabTurtlePlus libr
 
 ## Setup
 
-1. Install the ColabTurtlePlus library if you haven't already:
+1. Would recommend using google colab for running the code
+
+2. Install the ColabTurtlePlus library if you haven't already:
    ```bash
    !pip install ColabTurtlePlus
