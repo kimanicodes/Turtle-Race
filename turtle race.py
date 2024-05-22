@@ -7,10 +7,6 @@ import math
 MAXSTEP = 20      # maximum step size for the turtles to move
 BOUNDARY = 100    # the race boundary (i.e. radius of the circle)
 
-# Initialize the turtle screen
-#turtle.initializeTurtle()
-#turtle.bgcolor("white")
-
 # draw a circle
 def draw_circle(radius):
     local_turtle = turtle.Turtle()
